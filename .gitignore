@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Kotlin
+.kotlin/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
